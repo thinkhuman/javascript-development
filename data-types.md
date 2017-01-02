@@ -1,6 +1,6 @@
 # Data Types
 
-Data types are a way to classify data so a compiler or interpreter know how to efficiently store the data.
+Data types are a way to classify data so a compiler or interpreter know how to efficiently store the data and display desired results.
 
 JavaScript has six data types--five primitives, and the object data type:
 
