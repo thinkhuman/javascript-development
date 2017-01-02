@@ -20,4 +20,10 @@ In JavaScript, an array is an _object_. Arrays in JavaScript are ordered, meanin
 * concat()
 * toString()
 * sort()
-* 
+* reverse()
+* map()
+* reduce()
+* find()
+* forEach()
+* indexOf()
+* join()
