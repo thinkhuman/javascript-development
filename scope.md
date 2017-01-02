@@ -8,6 +8,9 @@ JavaScript has _function_ scope--a variable's scope is the function it was creat
 
 Starting with ES6, you can also define block scope in JavaScript using the `let` operator.
 
+## What is "hoisting"?
+Moving the declaration of a variable to the top of its enclosing scope at runtime (e.g., to the top of the function). JS *also hoists functions*, so you can call a function before it is declared. Common practice is to declare variables at the top of scopes anyway.
+
 ## About the "scope chain"
 
 The scope chain: Scopes can nest. A nested variable can look "upward"--every inner level can access levels outside it. The scope chain is defined "lexically"--that is, functions run in the scope where they're defined, not the scope they're called from. 
