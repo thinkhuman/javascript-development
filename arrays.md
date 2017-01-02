@@ -28,7 +28,7 @@ Bob, Joanne, Ralph, Mary, Linus
 Get the value of the first element in an array that meets a test.
 
 ```
-var ages = [3, 10, 18, 20];
+var ages = [3, 10, 14, 18, 20];
 function getFirstAdult(age){
     return age >= 18;
 }
