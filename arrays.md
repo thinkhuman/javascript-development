@@ -9,7 +9,7 @@ var things = [ "Dog", "Cat", "Salamander", 42, {"Joe", "Ralph"}, 945.55, true ];
 In JavaScript, an array is an _object_. Arrays in JavaScript are ordered, meaning the positions of values in an array value do not change (unless you change them).
 
 
-## 10 Common Array Methods
+## Common Array Methods
 
 * concat()
 * find()
