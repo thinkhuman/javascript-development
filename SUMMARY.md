@@ -9,6 +9,7 @@
   * [Data Types](data-types.md)
   * [Functions](functions.md)
   * [Objects](objects.md)
+  * [Arrays](arrays.md)
   * [The DOM](dom.md)
   * [Inheritance](inheritance.md)
 * [10 Common String Methods](string-methods.md)
@@ -23,7 +24,3 @@
   * substring()
   * toLowerCase(), toUpperCase()
   
-* [Data Structures](data-structures)
-  * [Arrays](arrays.md)
-  * [Objects](data-objects.md)
-  *  
