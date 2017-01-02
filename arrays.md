@@ -11,8 +11,21 @@ In JavaScript, an array is an _object_. Arrays in JavaScript are ordered, meanin
 
 ## Common Array Methods
 
-* concat()
-* find()
+**concat()**
+
+Join two arrays.
+
+```
+var room1 = ["Bob", "Joanne"];
+var room2 = ["Ralph", "Mary", "Linus"];
+var newRoom = room1.concat(room2);
+
+Bob, Joanne, Ralph, Mary, Linus
+```
+
+**find()**
+
+
 * forEach()
 * indexOf()
 * join()
