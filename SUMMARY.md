@@ -10,4 +10,5 @@
   * [Functions](functions.md)
   * [Objects](objects.md)
   * [The DOM](dom.md)
+  * [Inheritance](inheritance.md)
   
