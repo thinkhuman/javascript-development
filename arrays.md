@@ -38,10 +38,13 @@ ages.find(getFirstAdult);
 18
 ```
 
+**forEach()**
+
+Call a provided function once for each element in an array, in order.
 
 
-* forEach()
-* indexOf()
+
+indexOf()
 * join()
 * length()
 * map()
