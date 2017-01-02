@@ -42,7 +42,11 @@ ages.find(getFirstAdult);
 
 Call a provided function once for each element in an array, in order.
 
-
+var ages = [3, 10, 14, 18, 20];
+function multiply(values){
+    return values * values;
+}
+ages.forEach(multiply);
 
 indexOf()
 * join()
