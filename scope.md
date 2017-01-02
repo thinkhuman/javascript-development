@@ -6,6 +6,8 @@ Most popular languages use *block* scope--a variable is defined in a block, and 
 
 JavaScript has _function_ scope--a variable's scope is the function it was created in. 
 
+Starting with ES6, you can also define block scope in JavaScript using the `let` operator.
+
 Understanding scope is critical to working with JavaScript, because much of JavaScript programming is concerned with defining and manipulating scope.
 
 ## More Reading:
