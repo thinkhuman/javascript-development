@@ -1,6 +1,6 @@
 # Data Types
 
-Data types are
+Data types are a way to classify data so a compiler or interpreter know how to efficiently store the data.
 
 JavaScript has six data types--five primitives, and the object data type:
 
@@ -12,6 +12,8 @@ JavaScript has six data types--five primitives, and the object data type:
 * **String**" 'a', "a"
 
 A helpful mnemonic to remember these is BOUNNS. 
+
+JS is *dynamically* typed, meaning data type is not predefined, but instead determined on the fly based on the currently assigned value. *Statically* typed means data type is set in advance. Languages like Java use static typing.
 
 Use typeof() to check type of a data type.
 
