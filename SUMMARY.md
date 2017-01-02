@@ -9,5 +9,5 @@
   * [Data Types](data-types.md)
   * [Functions](functions.md)
   * [Objects](objects.md)
-  * 
+  * [The DOM](dom.md)
   
