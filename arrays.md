@@ -25,6 +25,20 @@ Bob, Joanne, Ralph, Mary, Linus
 
 **find()**
 
+Get the value of the first element in an array that meets a test.
+
+```
+var ages = [3, 10, 18, 20];
+function getFirstAdult(age){
+    return age >= 18;
+}
+
+ages.find(getFirstAdult);
+
+18
+```
+
+
 
 * forEach()
 * indexOf()
