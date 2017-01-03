@@ -70,6 +70,16 @@ console.log(a); // displays '2'
 
 
 ### join()
+Join the elements of an array into a string.
+
+```
+var room2 = ["Ralph", "Mary", "Linus", "Eileen"];
+var team = room2.join();
+console.log(team);
+
+"Ralph, Mary, Linus, Eileen"
+```
+
 
 
 ### length()
