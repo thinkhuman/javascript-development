@@ -80,11 +80,15 @@ console.log(team);
 "Ralph, Mary, Linus, Eileen"
 ```
 
-
-
 ### length()
+Returns the length of an array.
 
+```
+var ages = [3, 10, 14, 18, 20];
+console.log(ages.length);
 
+4
+```
 
 ### map()
 
