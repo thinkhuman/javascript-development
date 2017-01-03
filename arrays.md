@@ -11,7 +11,7 @@ In JavaScript, an array is an _object_. Arrays in JavaScript are ordered, meanin
 
 ## Common Array Methods
 
-**concat()**
+###concat()
 
 Join two arrays.
 
@@ -67,7 +67,6 @@ age = ages.indexOf("14");
 
 console.log(a); // displays '2'
 ```
-
 
 
 * join()
