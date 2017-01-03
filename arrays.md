@@ -91,14 +91,45 @@ console.log(ages.length);
 ```
 
 ### map()
+Applies a defined function to each element in an array, and returns a new array with the results.
 
+```
+var ages = [3, 10, 14, 18, 20];
+x = ages.map(Math.sqrt);
+console.log(x);
+[1.73, 3.16, 3.74, 4.24, 4.27] // Rounded for example
+```
 
 ### pop()
+
+
+
 ### push()
+
+
+
 ### reduce()
+
+
+
 ### reverse()
+
+
+
 ### shift()
+
+
+
 ### sort()
+
+
+
 ### splice()
+
+
+
 ### toString()
+
+
+
 ### unshift()
