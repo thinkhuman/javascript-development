@@ -23,7 +23,7 @@ var newRoom = room1.concat(room2);
 Bob, Joanne, Ralph, Mary, Linus
 ```
 
-**find()**
+### find()
 
 Get the value of the first element in an array that meets a test.
 
@@ -38,7 +38,7 @@ ages.find(getFirstAdult);
 18
 ```
 
-**forEach()**
+### forEach()
 
 Call a provided function once for each element in an array, in order.
 
@@ -57,7 +57,7 @@ for (val of ages) {
 ```
 
 
-**indexOf()**
+### indexOf()
 
 Returns the index position of a specific value.
 
@@ -69,15 +69,22 @@ console.log(a); // displays '2'
 ```
 
 
-* join()
-* length()
-* map()
-* pop()
-* push()
-* reduce()
-* reverse()
-* shift()
-* sort()
-* splice()
-* toString()
-* unshift()
+### join()
+
+
+### length()
+
+
+
+### map()
+
+
+### pop()
+### push()
+### reduce()
+### reverse()
+### shift()
+### sort()
+### splice()
+### toString()
+### unshift()
