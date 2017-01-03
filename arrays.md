@@ -57,7 +57,19 @@ for (val of ages) {
 ```
 
 
-indexOf()
+**indexOf()**
+
+Returns the index position of a specific value.
+
+```
+var ages = [3, 10, 14, 18, 20];
+age = ages.indexOf("14");
+
+console.log(a); // displays '2'
+```
+
+
+
 * join()
 * length()
 * map()
