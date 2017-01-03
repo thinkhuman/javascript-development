@@ -2,7 +2,8 @@
 
 * [Introduction](README.md)
 * [Useful Links](useful-links.md)
-* [The Basics](the-basics.md)
+* [HTML5 and CSS3](html-css.md)
+* [The Basics of JavaScript](the-basics.md)
     * [What is JavaScript?](what-is-javascript.md)
     * [Syntax](syntax.md)
     * [Scope](scope.md)
@@ -10,7 +11,6 @@
     * [Functions](functions.md)
     * [Objects](objects.md)
     * [Arrays and Common Array Methods](arrays.md)
-    * [The DOM](dom.md)
     * [Inheritance](inheritance.md)
 * [10 Common String Methods](string-methods.md)
     * [charAt\(\)](charat.md)
@@ -23,5 +23,13 @@
     * split\(\)
     * substring\(\)
     * toLowerCase\(\), toUpperCase\(\)
+* [The DOM](dom.md)
+    * BOM, DOM, Window
+    * Accessing, Creating, and changing DOM Elements
+    * 
+* [Events](events.md)
+* [Chrome Dev Tools](devtools.md)
+* [The JavaScript Ecosystem](ecosystem.md)
 * [ES6 Overview](es6.md)
+* [Testing](testing.md)
 
