@@ -119,8 +119,19 @@ ages.push(55);
 ```
 
 ### reduce()
+Reduce values in an array to a single value.
 
 
+
+```
+var ages = [3, 10, 14, 18, 20];
+function getSum(total, num) {
+    return total + num;
+}
+
+ages.reduce(getSum);
+65
+```
 
 ### reverse()
 
