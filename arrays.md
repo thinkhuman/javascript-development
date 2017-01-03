@@ -48,7 +48,7 @@ ages.forEach(function(age){
     console.log(age)
     });
 ```
-ES6 adds a "for of" iterator, like this:
+ES6 adds a `for...of` iterator, like this:
 
 ```
 for (val of ages) {
