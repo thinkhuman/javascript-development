@@ -124,13 +124,7 @@ Reduce values in an array to a single value.
 
 
 ```
-var ages = [3, 10, 14, 18, 20];
-function getSum(total, num) {
-    return total + num;
-}
-
-ages.reduce(getSum);
-65
+gages.reduce(getSum);ggg65gg
 ```
 
 ### reverse()
@@ -145,18 +139,31 @@ ages.reverse();
 ### shift()
 Remove and return the first element in an array. To remove the _last_ element of an array, use `pop()`.
 
-
-
 ```
 var ages = [3, 10, 14, 18, 20];
 ages.shift();
 3
 ```
 
-
-
-
 ### sort()
+Sort array elements in ascending (default) or descending order.
+
+```
+var ages = [20, 10, 14, 5, 2];
+ages.sort();
+[2,5,10,14,20]
+```
+To sort in descending order, pass in a function:
+
+```
+var ages = [20, 10, 14, 5, 2];
+ages.sort(function(a, b){
+    return a-b;
+    });
+```
+
+
+
 
 
 
