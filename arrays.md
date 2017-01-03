@@ -143,6 +143,16 @@ ages.reverse();
 ```
 
 ### shift()
+Remove and return the first element in an array. To remove the _last_ element of an array, use `pop()`.
+
+
+
+```
+var ages = [3, 10, 14, 18, 20];
+ages.shift();
+3
+```
+
 
 
 
