@@ -23,4 +23,5 @@
     * split\(\)
     * substring\(\)
     * toLowerCase\(\), toUpperCase\(\)
+* ES6 Overview
 
