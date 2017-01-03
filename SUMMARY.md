@@ -32,4 +32,5 @@
 * [The JavaScript Ecosystem](ecosystem.md)
 * [ES6 Overview](es6.md)
 * [Testing](testing.md)
+* [Node and NPM](node.md)
 
