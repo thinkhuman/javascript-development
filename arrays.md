@@ -178,7 +178,13 @@ ages.splice(2,1) //position, # of items to remove
 ```
 
 ### toString()
+Convert an entire array to a string.
 
-
+```
+var ages = [20, 10, 14, 5, 2];
+ages.toString();
+"20,10,14,5,2"
+```
 
 ### unshift()
+
