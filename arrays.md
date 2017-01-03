@@ -59,7 +59,7 @@ for (val of ages) {
 
 ### indexOf()
 
-Returns the index position of a specific value.
+Return the index position of a specific value.
 
 ```
 var ages = [3, 10, 14, 18, 20];
@@ -81,7 +81,7 @@ console.log(team);
 ```
 
 ### length()
-Returns the length of an array.
+Return the length of an array.
 
 ```
 var ages = [3, 10, 14, 18, 20];
@@ -91,7 +91,7 @@ console.log(ages.length);
 ```
 
 ### map()
-Applies a defined function to each element in an array, and returns a new array with the results.
+Apply a defined function to each element in an array, and return a new array with the results.
 
 ```
 var ages = [3, 10, 14, 18, 20];
@@ -101,8 +101,13 @@ console.log(x);
 ```
 
 ### pop()
+Remove and return the last element of an array. To remove the _first_ item, use `shift()`.
 
-
+```
+var ages = [3, 10, 14, 18, 20];
+ages.pop();
+20
+```
 
 ### push()
 
