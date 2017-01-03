@@ -162,11 +162,6 @@ ages.sort(function(a, b){
     });
 ```
 
-
-
-
-
-
 ### splice()
 
 
