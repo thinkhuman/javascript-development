@@ -64,7 +64,6 @@ Return the index position of a specific value.
 ```
 var ages = [3, 10, 14, 18, 20];
 age = ages.indexOf("14");
-
 console.log(a); // displays '2'
 ```
 
@@ -76,7 +75,6 @@ Join the elements of an array into a string.
 var room2 = ["Ralph", "Mary", "Linus", "Eileen"];
 var team = room2.join();
 console.log(team);
-
 "Ralph, Mary, Linus, Eileen"
 ```
 
@@ -86,7 +84,6 @@ Return the length of an array.
 ```
 var ages = [3, 10, 14, 18, 20];
 console.log(ages.length);
-
 4
 ```
 
@@ -121,10 +118,12 @@ ages.push(55);
 ### reduce()
 Reduce values in an array to a single value.
 
-
-
 ```
-gages.reduce(getSum);ggg65gg
+var ages = [3, 10, 14, 18, 20];
+function getSum(total, num) {
+    return total + num;
+}
+ages.reduce(getSum);
 ```
 
 ### reverse()
