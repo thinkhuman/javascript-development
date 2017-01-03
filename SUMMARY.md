@@ -14,7 +14,7 @@
     * [Inheritance](inheritance.md)
 * [10 Common String Methods](string-methods.md)
     * [charAt\(\)](charat.md)
-    * concat\(\)
+    * [concat\(\)](concat.md)
     * indexOf\(\)
     * length\(\)
     * match\(\)
