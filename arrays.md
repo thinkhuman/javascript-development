@@ -134,8 +134,13 @@ ages.reduce(getSum);
 ```
 
 ### reverse()
+Reverse the order of elements in an array.
 
-
+```
+var ages = [3, 10, 14, 18, 20];
+ages.reverse();
+[20,18,14,10,3]
+```
 
 ### shift()
 
