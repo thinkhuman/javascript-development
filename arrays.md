@@ -187,4 +187,15 @@ ages.toString();
 ```
 
 ### unshift()
+Add new elements to beginning of an array and returns new array length.
+
+```
+var ages = [20, 10, 14, 5, 2];
+ages.unShift(99,33,22);
+8
+console.log(ages);
+[99, 33, 22, 20, 10, 14, 5, 2]
+```
+
+
 
