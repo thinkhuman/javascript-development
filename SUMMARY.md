@@ -30,6 +30,7 @@
 * [Events](events.md)
 * [Chrome Dev Tools](devtools.md)
 * [Basic Workflows](workflows.md)
+    * [Basic Front End Dev Tools](front-end-tools.md)
 * [The JavaScript Ecosystem](ecosystem.md)
     * [Libraries and Frameworks](libraries-frameworks.md)
     * [Module Loading](modules.md)
