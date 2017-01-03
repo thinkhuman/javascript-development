@@ -37,6 +37,7 @@
     * [Build and Task Automation](automation.md)
     * [Performance Optimization](optimization.md)
     * [Basic Security](security.md)
+    * [Responsive Design](responsive.md)
 * [ES6 Overview](es6.md)
 * [Testing](testing.md)
 * [Node and NPM](node.md)
