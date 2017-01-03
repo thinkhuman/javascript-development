@@ -110,8 +110,13 @@ ages.pop();
 ```
 
 ### push()
+Add new items to the end of an array and return the new array. To add items to the _beginning_ of an array, use `unshift()`.
 
-
+```
+var ages = [3, 10, 14, 18, 20];
+ages.push(55);
+[3, 10, 14, 18, 20, 55];
+```
 
 ### reduce()
 
