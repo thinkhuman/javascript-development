@@ -1,4 +1,4 @@
-# Arrays
+# Arrays and Common Array Methods
 
 An array is a _data structure_ (really just a special variable) used to store multiple values (of any type). It looks like this:
 
