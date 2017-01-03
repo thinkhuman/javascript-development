@@ -31,7 +31,13 @@
 * [Chrome Dev Tools](devtools.md)
 * [Basic Workflows](workflows.md)
 * [The JavaScript Ecosystem](ecosystem.md)
+    * [Libraries and Frameworks](libraries-frameworks.md)
+    * [Module Loading](modules.md)
+    * [Package Management](package-management.md)
+    * [Build and Task Automation](automation.md)
+    * [Performance Optimization](optimization.md)
 * [ES6 Overview](es6.md)
 * [Testing](testing.md)
 * [Node and NPM](node.md)
+* [Common Interview Questions](interview-questions.md)
 
