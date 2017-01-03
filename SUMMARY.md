@@ -29,6 +29,7 @@
     * 
 * [Events](events.md)
 * [Chrome Dev Tools](devtools.md)
+* [Basic Workflows](workflows.md)
 * [The JavaScript Ecosystem](ecosystem.md)
 * [ES6 Overview](es6.md)
 * [Testing](testing.md)
