@@ -166,7 +166,7 @@ ages.sort(function(a, b){
 Remove elements from (and return) or add elements to an array.
 
 ```
-// add items
+// Add items
 var ages = [20, 10, 14, 5, 2];
 ages.splice(2, 0, 142); //position, # of items to remove, value to insert
 [20, 10, 142, 14, 5, 2]
@@ -176,9 +176,6 @@ var ages = [20, 10, 14, 5, 2];
 ages.splice(2,1) //position, # of items to remove
 [14]
 ```
-
-
-
 
 ### toString()
 
